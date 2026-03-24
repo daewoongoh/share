@@ -5880,7 +5880,7 @@ items:
 
   - id: architect-reviewer
     name: Architecture Reviewer
-    description: 'You are an Expert architecture reviewer specializing in system design
+    description: You are an Expert architecture reviewer specializing in system design
     author: "@roo"
     tags:
       - core-development
@@ -6412,7 +6412,7 @@ items:
 
   - id: compiler-engineer
     name: Compiler Engineer
-    description: You design and optimize compilers and toolchains: lexing, parsing, AST/IR design,
+    description: "You design and optimize compilers and toolchains: lexing, parsing, AST/IR design,"
     author: "@roo"
     tags:
       - compiler
@@ -6447,7 +6447,7 @@ items:
 
   - id: concurrency-specialist
     name: Concurrency Specialist
-    description: You design and implement safe, performant concurrent and parallel systems: threads,
+    description: "You design and implement safe, performant concurrent and parallel systems: threads,"
     author: "@roo"
     tags:
       - concurrency
@@ -6532,7 +6532,7 @@ items:
 
   - id: data-pipeline-engineer
     name: ️ Data Pipeline Engineer
-    description: You build reliable batch/stream pipelines: ingestion, transformation, orchestration,
+    description: "You build reliable batch/stream pipelines: ingestion, transformation, orchestration,"
     author: "@roo"
     tags:
       - data
@@ -6687,7 +6687,7 @@ items:
 
   - id: frontend-architecture-engineer
     name: Frontend Architecture Engineer
-    description: You design scalable frontend architectures: module boundaries, state management,
+    description: "You design scalable frontend architectures: module boundaries, state management,"
     author: "@roo"
     tags:
       - frontend
@@ -6750,7 +6750,7 @@ items:
 
   - id: game-engine-developer
     name: Game Engine Developer
-    description: You implement performant real-time systems for games: ECS architecture, rendering
+    description: "You implement performant real-time systems for games: ECS architecture, rendering"
     author: "@roo"
     tags:
       - game
@@ -7161,7 +7161,7 @@ items:
 
   - id: performance-engineer
     name: Performance Engineer
-    description: 'You are an Expert performance engineer specializing in system optimization,
+    description: You are an Expert performance engineer specializing in system optimization,
     author: "@roo"
     tags:
       - core-development
@@ -7320,7 +7320,7 @@ items:
 
   - id: runtime-performance-engineer
     name: Runtime Performance Engineer
-    description: You profile, diagnose, and optimize runtime performance: CPU, memory, allocations,
+    description: "You profile, diagnose, and optimize runtime performance: CPU, memory, allocations,"
     author: "@roo"
     tags:
       - runtime
@@ -7379,7 +7379,7 @@ items:
 
   - id: sdk-developer
     name: SDK Developer
-    description: You design developer-friendly SDKs: ergonomic APIs, strong typing, resilience,
+    description: "You design developer-friendly SDKs: ergonomic APIs, strong typing, resilience,"
     author: "@roo"
     tags:
       - sdk
@@ -7555,7 +7555,7 @@ items:
 
   - id: streaming-systems-engineer
     name: Streaming Systems Engineer
-    description: You design and operate high-throughput, low-latency streaming systems: pub/sub,
+    description: "You design and operate high-throughput, low-latency streaming systems: pub/sub,"
     author: "@roo"
     tags:
       - streaming
@@ -7820,7 +7820,7 @@ items:
 
   - id: chaos-engineer
     name: ️ Chaos Engineer Expert
-    description: 'You are an Expert chaos engineer specializing in controlled failure
+    description: You are an Expert chaos engineer specializing in controlled failure
     author: "@roo"
     tags:
       - infrastructure-devops
@@ -10646,7 +10646,7 @@ items:
 
   - id: code-reviewer
     name: ️ Code Review Expert
-    description: 'You are an Expert code reviewer specializing in code quality, security
+    description: You are an Expert code reviewer specializing in code quality, security
     author: "@roo"
     tags:
       - security-quality
@@ -10823,7 +10823,7 @@ items:
 
   - id: error-detective
     name: ️ Error Detective Elite
-    description: 'You are an Expert error detective specializing in complex error pattern
+    description: You are an Expert error detective specializing in complex error pattern
     author: "@roo"
     tags:
       - security-quality
@@ -10951,7 +10951,7 @@ items:
 
   - id: penetration-tester
     name: ️ Penetration Tester Pro
-    description: 'You are an Expert penetration tester specializing in ethical hacking,
+    description: You are an Expert penetration tester specializing in ethical hacking,
     author: "@roo"
     tags:
       - security-quality
@@ -11104,7 +11104,7 @@ items:
 
   - id: qa-expert
     name: QA Expert Elite
-    description: 'You are an Expert QA engineer specializing in comprehensive quality
+    description: You are an Expert QA engineer specializing in comprehensive quality
     author: "@roo"
     tags:
       - security-quality
